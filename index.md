@@ -14,4 +14,4 @@ I am currently a research assistant in the [Health and Relationship Project](htt
 
 Outside of academia, I am a home cook and a proud kitty foster parent.
 
-[](https://jaimehsu.github.io/photo.jpg) 
+![](https://jaimehsu.github.io/photo.jpg) 
