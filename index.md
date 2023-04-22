@@ -13,3 +13,5 @@ I have the opportunities to work with many talented collaborators. In one larger
 I am currently a research assistant in the [Health and Relationship Project](https://liberalarts.utexas.edu/health-relationships-lab/) under the supervision of Dr. Deb Umberson. 
 
 Outside of academia, I am a home cook and a proud kitty foster parent.
+
+[](https://jaimehsu.github.io/photo.jpg)
