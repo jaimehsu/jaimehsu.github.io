@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: About Me, sidebaricon: home }
-  - {file: "Research.md", title: Research, sidebaricon: pen}
-  - {file: "CV_Jaime.pdf", title: CV, url : "https://jaimehsu.github.io/CV_Jaime.pdf", sidebaricon: file}
+  - {file: "index.md", title: About Me, icon: home }
+  - {file: "Research.md", title: Research, icon: pen}
+  - {file: "CV_Jaime.pdf", title: CV, url : "https://jaimehsu.github.io/CV_Jaime.pdf", icon: file}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jfhsu@utexas.edu"}
