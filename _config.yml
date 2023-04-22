@@ -21,6 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_Jaime.pdf", title: CV, url : "https://jaimehsu.github.io/CV_Jaime.pdf", icon: file}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {file: "index.md", title: About Me, icon: home }
+  - {file: "Research.md", title: Research, icon: pen}
+  - {file: "CV_Jaime.pdf", title: CV, url : "https://jaimehsu.github.io/CV_Jaime.pdf", icon: file}
   - {title: Mail, icon: envelope, url: "mailto:jfhsu@utexas.edu"}
   - {title: Github, icon: github, url: "https://github.com/jaimehsu"}
 
