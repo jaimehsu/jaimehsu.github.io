@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Me"
+categories: media
 ---
 
 I am a doctoral student in the [Sociology Department](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495) at the University of Texas at Austin. I am affliliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/) at UT Austin. 
@@ -12,4 +13,3 @@ I have the opportunities to work with many talented collaborators. In one larger
 I am currently a research assistant in the [Health and Relationship Project](https://liberalarts.utexas.edu/health-relationships-lab/) under the supervision of Dr. Deb Umberson. 
 
 Outside of academia, I am a home cook and a proud kitty foster parent.
-
