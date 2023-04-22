@@ -10,15 +10,15 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
+show_sidebar: true        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: About Me }
-  - {file: "Research.md", title: Research}
-  - {file: "CV_Jaime.pdf", title: CV, url : "https://jaimehsu.github.io/CV_Jaime.pdf"}
+  - {file: "index.md", title: About Me, sidebaricon: home }
+  - {file: "Research.md", title: Research, sidebaricon: pen}
+  - {file: "CV_Jaime.pdf", title: CV, url : "https://jaimehsu.github.io/CV_Jaime.pdf", sidebaricon: file}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jfhsu@utexas.edu"}
