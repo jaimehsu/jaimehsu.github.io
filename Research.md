@@ -21,7 +21,7 @@ Hsu, Jaime and Sara Mernitz. “The Role of Romantic Relationships for Sexual Mi
 Mernitz, S., Jaime Hsu and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” (Under Review)
 
 Hsu, Jaime. “Penalizing Nonconformity: Gender Embodiment at the Intersection of Gender and Sexual Identity in the Labor Market.” (Under Review)
-	W. Parker Frisbie Outstanding Graduate Student Publication Award 2023
+*W. Parker Frisbie Outstanding Graduate Student Publication Award 2023*
 
 Hsu, Jaime and Sara Mernitz. “Bisexuality, Relationship Quality, and Depressive Symptoms” (Under Review)
 
