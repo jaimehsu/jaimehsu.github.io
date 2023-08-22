@@ -21,9 +21,10 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” (Under Review)
 
 **Hsu, Jaime**. “Penalizing Nonconformity: Gender Embodiment at the Intersection of Gender and Sexual Identity in the Labor Market.” (Under Review)
+
 *W. Parker Frisbie Outstanding Graduate Student Publication Award 2023*
 
-**Hsu, Jaime** and Sara Mernitz. “Bisexuality, Relationship Quality, and Depressive Symptoms” (Under Review)
+**Hsu, Jaime** and Sara Mernitz. “Relationship Quality and Depression Among Bisexual People Using Population-Level Data” (Under Review)
 
 
 **In Progress**
