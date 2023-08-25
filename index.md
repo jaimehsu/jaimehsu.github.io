@@ -16,8 +16,4 @@ I am currently a research assistant in the [Health and Relationship Project](htt
 
 Outside of academia, I am a home cook and a proud kitty foster parent.
 
-我是一位德州大學奧斯汀分校的[社會學博士生](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495)。
-
-
-
 ![](https://jaimehsu.github.io/photo.jpg) 
