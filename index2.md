@@ -1,0 +1,13 @@
+---
+layout: page
+title: "關於我"
+categories: media
+---
+
+許峯源，德州大學奧斯汀分校的[社會學博士生](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495)。亦為德州大學奧斯汀分校[人口研究中心](https://liberalarts.utexas.edu/prc/gradstudents/fh5495)，[人口老化科學中心](https://liberalarts.utexas.edu/caps/people/)，以及[都市民族誌實驗室](https://sites.utexas.edu/ethnolab/people/fellows/)的博士研究生。
+
+研究專長為性別相關的經濟與健康不平等、家庭社會學、量化與質化方法。
+
+學術之外，喜愛煮飯與幫助浪貓找家。
+
+![](https://jaimehsu.github.io/photo.jpg) 
