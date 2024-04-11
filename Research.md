@@ -28,7 +28,8 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 **Hsu, Jaime** and Sara Mernitz. “Relationship Quality and Depression Among Bisexual People Using Population-Level Data” (*R&R*)
 
 
-**In Progress**
+**In Progress**  
+
 Jaime Hsu & Asya Saydam. “Financial Stress and Depressive Symptoms among Same-Sex and Different-Sex Couples” (Manuscript Available)
 
 Jaime Hsu. “Embodied Careers: Gender Embodiment, Sexual Identity, and Gender-Typicality of Occupations” (In Progress)
