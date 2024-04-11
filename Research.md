@@ -5,6 +5,9 @@ title: "Research"
 
 **Peer-Reviewed Articles**
 
+In Press
+Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” *Demography*
+
 2023  
 Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship among Youth: Variability by Sexual Orientations.” *Journal of Social and Personal Relationships*
 
@@ -14,13 +17,13 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 2018  
 **Hsu, Jaime (Feng-Yuan)**. “Negotiating Gendered Media: Learning ICTs in Transnational Taiwanese Families.” *Continuum: Journal of Media & Cultural Studies*, 32(2): 239-249. 
 
-**Under Review**
+**Revise and Resubmit**
 
-**Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” (*R&R*)
+**Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” (*Revision Submitted*)
 
-Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” (*R&R*)
+(*R&R*)
 
-**Hsu, Jaime**. “Penalizing Nonconformity: Gender Embodiment at the Intersection of Gender and Sexual Identity in the Labor Market.” (*R&R*)
+**Hsu, Jaime**. “Penalizing Nonconformity: Gender Embodiment at the Intersection of Gender and Sexual Identity in the Labor Market.” (*Revision Submitted*)
 
 *W. Parker Frisbie Outstanding Graduate Student Publication Award 2023*
 
@@ -28,6 +31,9 @@ Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During
 
 
 **In Progress**
+Jaime Hsu & Asya Saydam. “Financial Stress and Depressive Symptoms among Same-Sex and Different-Sex Couples” (Manuscript Available)
+
+Jaime Hsu. “Embodied Careers: Gender Embodiment, Sexual Identity, and Gender-Typicality of Occupations” (In Progress)
 
 Deckard, F., Shannon Malone Gonzalez and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” (manuscript available)
 
