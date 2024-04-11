@@ -30,9 +30,9 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 
 **In Progress**  
 
-Jaime Hsu & Asya Saydam. “Financial Stress and Depressive Symptoms among Same-Sex and Different-Sex Couples” (Manuscript Available)
+**Jaime Hsu** & Asya Saydam. “Financial Stress and Depressive Symptoms among Same-Sex and Different-Sex Couples” (Manuscript Available)
 
-Jaime Hsu. “Embodied Careers: Gender Embodiment, Sexual Identity, and Gender-Typicality of Occupations” (In Progress)
+**Jaime Hsu**. “Embodied Careers: Gender Embodiment, Sexual Identity, and Gender-Typicality of Occupations” (In Progress)
 
 Deckard, F., Shannon Malone Gonzalez and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” (manuscript available)
 
