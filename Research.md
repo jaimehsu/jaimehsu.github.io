@@ -5,7 +5,7 @@ title: "Research"
 
 **Peer-Reviewed Articles**
 
-In Press
+In Press  
 Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” *Demography*
 
 2023  
