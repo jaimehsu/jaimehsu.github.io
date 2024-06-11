@@ -27,5 +27,5 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 
 **Under Review**
 
-Deckard, F., Shannon Malone Gonzalez and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” (manuscript available)
+Deckard, F., Shannon Malone Gonzalez and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.”
 
