@@ -12,7 +12,7 @@ I have the opportunity to work with many talented collaborators. In one larger p
 
 Despite my quantitative research, I began my research experience as a qualitative researcher in the field of transnational family and information technologies ([*The publication during that time*](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1657161?journalCode=rics20)). I am currently part of a collaborative qualitative research on bi+ people and their marital relationships with a wonderful research team from UT-Austin, Ohio State University, and University of Alabama at Birmingham.
 
-My works have been published in [*Demography*](https://doi.org/10.1215/00703370-11380562), [*Journal of Personal and Social Relationships*](https://journals.sagepub.com/doi/10.1177/02654075231185763), [*Information, Communication & Society*](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1657161?journalCode=rics20), and others.
+My works have been published in [*Demography*](https://doi.org/10.1215/00703370-11380562), *Social Science Research*, [*Information, Communication & Society*](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2019.1657161?journalCode=rics20), and others.
 
 I am currently a research assistant in the [Health and Relationship Project](https://liberalarts.utexas.edu/health-relationships-lab/) under the supervision of Dr. Deb Umberson. 
 
