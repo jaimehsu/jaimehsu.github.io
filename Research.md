@@ -6,6 +6,8 @@ title: "Research"
 **Peer-Reviewed Articles**
 
 In Press  
+**Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” *Social Science Research*
+
 Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” *Demography*
 
 2023  
@@ -18,8 +20,6 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 **Hsu, Jaime (Feng-Yuan)**. “Negotiating Gendered Media: Learning ICTs in Transnational Taiwanese Families.” *Continuum: Journal of Media & Cultural Studies*, 32(2): 239-249. 
 
 **Revise and Resubmit**
-
-**Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” (*Revision Submitted*)
 
 **Hsu, Jaime**. “Penalizing Nonconformity: Gender Embodiment at the Intersection of Gender and Sexual Identity in the Labor Market.” (*Revision Submitted*)
 
