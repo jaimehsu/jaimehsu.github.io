@@ -8,6 +8,7 @@ title: "Research"
 2024 or Forthcoming
 
 **Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” *Social Problems*
+
 *W. Parker Frisbie Outstanding Graduate Student Publication Award 2023*
 
 **Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” *Social Science Research*
