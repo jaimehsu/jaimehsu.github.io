@@ -22,7 +22,7 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 2018  
 **Hsu, Jaime (Feng-Yuan)**. “Negotiating Gendered Media: Learning ICTs in Transnational Taiwanese Families.” *Continuum: Journal of Media & Cultural Studies*, 32(2): 239-249. 
 
-**R & R**
+**Under Revision**
 
 Deckard, F., Shannon Malone Gonzalez and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.”
 
