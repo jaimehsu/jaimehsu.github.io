@@ -7,7 +7,7 @@ title: "Research"
 
 2024 or Forthcoming
 
-**Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” *Social Problems* (Winner of *W. Parker Frisbie Outstanding Graduate Student Publication Award 2023*)
+**Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” *Social Problems* 
 
 **Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” *Social Science Research*
 
@@ -22,7 +22,7 @@ Mernitz, S., **Jaime Hsu** and Meg Bishop. “Timing to a First Relationship amo
 2018  
 **Hsu, Jaime (Feng-Yuan)**. “Negotiating Gendered Media: Learning ICTs in Transnational Taiwanese Families.” *Continuum: Journal of Media & Cultural Studies*, 32(2): 239-249. 
 
-**Under Review**
+**R & R**
 
 Deckard, F., Shannon Malone Gonzalez and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.”
 
