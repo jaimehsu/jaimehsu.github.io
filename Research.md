@@ -5,7 +5,7 @@ title: "Research"
 
 **Peer-Reviewed Articles**
 
-2024 or Forthcoming
+2024
 
 **Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” *Social Problems* 
 
