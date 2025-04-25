@@ -11,19 +11,18 @@ date_format: "%B %d, %Y"
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
+minimal: false             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: About Me, icon: circle-user, sidebaricon: circle-user}
-  - {file: "index2.md", title: 關於我, icon: circle-user, sidebaricon: circle-user}
-  - {file: "Research.md", title: Research,  icon: book, sidebaricon: book}
+  - {file: "index.md", title: About Me}
+  - {file: "index2.md", title: 關於我}
+  - {file: "Research.md", title: Research}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jfhsu@utexas.edu"}
   - {title: Github, icon: github, url: "https://github.com/jaimehsu"}
-  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=qb4j4e8AAAAJ&hl=zh-TW"}
 
 
 comments:
