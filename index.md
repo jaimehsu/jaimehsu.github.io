@@ -4,7 +4,7 @@ title: "About Me"
 categories: media
 ---
 
-I am on the 2025-2026 academic job market and would be happy to meet at ASA or virtually.
+I am on the 2025-2026 academic job market and would be happy to meet at ASA or virtually. See my [CV](https://jaimehsu.github.io/CV_Jaime.pdf)
 ---
 
 Hi, I'm Jaime Hsu. I'm a sociologist and social demographer focuses on gender and family processes that shape economic and health inequalities across the life course, with a focus on gender and sexual minority (LGBTQI+) populations. My works are published or forthcoming in [*Social Problems*](https://doi.org/10.1093/socpro/spae050), [*Demography*](https://doi.org/10.1215/00703370-11380562), *Social Forces*, [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049), and others. I affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/) at the University of Texas at Austin. 
