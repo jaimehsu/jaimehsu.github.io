@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 ---
 
-**Peer-Reviewed Articles** [Google Scholar](https://scholar.google.com/citations?user=qb4j4e8AAAAJ&hl=zh-TW)
+**Peer-Reviewed Articles**, also on my [Google Scholar](https://scholar.google.com/citations?user=qb4j4e8AAAAJ&hl=zh-TW)
 ---
 
 
