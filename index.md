@@ -4,14 +4,13 @@ title: "About Me"
 categories: media
 ---
 
-Hi, I'm Jaime Hsu. I am a doctoral candidate in the [Sociology Department](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495) at the University of Texas at Austin, affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/). 
-
+Hi, I'm Jaime Hsu, PhD Candidate in Sociology at UT Austin. 
 I am on the 2025-2026 academic job market and would be happy to meet at ASA or virtually.
 ---
 
-My works focus on gender and family processes that shape economic and health inequalities across the life course, with a focus on gender and sexual minority (LGBTQI+) populations. My dissertation project examines their experiences at the intersection of work, family, and well-being. 
+I'm a sociologist and social demographer focuses on gender and family processes that shape economic and health inequalities across the life course, with a focus on gender and sexual minority (LGBTQI+) populations. I am a doctoral candidate in the [Sociology Department](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495) at the University of Texas at Austin, affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/). 
 
-Beyond my dissertation project, I worked on the embodied costs of gender nonconformity in the labor market. I use survey data to examine how gender nonconformity shapes individuals' labor market outcomes across their gender and sexual identities [*(Hsu 2024)*](https://doi.org/10.1093/socpro/spae050). Other collaborative projects include the timing to dating relationships [*(Mernitz, Hsu and Bishop 2023)*](https://journals.sagepub.com/doi/10.1177/02654075231185763) and to union formations [*(Mernitz, Hsu and Pollitt 2024)*](https://doi.org/10.1215/00703370-11380562) among sexual minority youth, and the mental health consequences of intimate relationships for sexual minority youth [(*Hsu and Mernitz 2024*)](https://doi.org/10.1016/j.ssresearch.2024.103049). 
+My dissertation project examines their experiences at the intersection of work, family, and well-being. Beyond my dissertation project, I worked on the embodied costs of gender nonconformity in the labor market. I use survey data to examine how gender nonconformity shapes individuals' labor market outcomes across their gender and sexual identities [*(Hsu 2024)*](https://doi.org/10.1093/socpro/spae050). Other collaborative projects include the timing to dating relationships [*(Mernitz, Hsu and Bishop 2023)*](https://journals.sagepub.com/doi/10.1177/02654075231185763) and to union formations [*(Mernitz, Hsu and Pollitt 2024)*](https://doi.org/10.1215/00703370-11380562) among sexual minority youth, and the mental health consequences of intimate relationships for sexual minority youth [(*Hsu and Mernitz 2024*)](https://doi.org/10.1016/j.ssresearch.2024.103049). 
 
 With Drs. Faith Deckard (UCLA), Shannon Malone Gonzalez (UNC-Chapel Hill), and Yasmiyn Irizarry (UT Austin), our ongoing projects focus on how different types of police contact contributes to Black women's mental health using a novel dataset (**In Her Place**, data effort by Drs. Shannon Malone Gonzalez & Yasmiyn Irizarry).
 
