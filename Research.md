@@ -9,7 +9,7 @@ title: "Research"
 
 Forthcoming
 ---
-Deckard, F., Shannon Malone Gonzalez, Yasmiyn Irizarry, and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.”
+Deckard, F., Shannon Malone Gonzalez, Yasmiyn Irizarry, and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” *Social Forces*
 
 2024
 ---
