@@ -4,8 +4,10 @@ title: "About Me"
 categories: media
 ---
 
+Hi, I'm Jaime Hsu. I am a doctoral candidate in the [Sociology Department](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495) at the University of Texas at Austin, affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/). 
 
-I am a doctoral candidate in the [Sociology Department](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495) at the University of Texas at Austin, affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/). 
+I am on the 2025-2026 academic job market and would be happy to meet at ASA or virtually.
+---
 
 My works focus on gender and family processes that shape economic and health inequalities across the life course, with a focus on gender and sexual minority (LGBTQI+) populations. My dissertation project examines their experiences at the intersection of work, family, and well-being. 
 
