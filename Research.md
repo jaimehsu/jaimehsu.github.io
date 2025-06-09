@@ -9,16 +9,16 @@ title: "Research"
 
 2025
 ---
-Deckard, F., Shannon Malone Gonzalez, Yasmiyn Irizarry, and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” [*Social Forces*](https://doi.org/10.1093/sf/soaf070)
+Deckard, F., Shannon Malone Gonzalez, Yasmiyn Irizarry, and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” [*Social Forces*](https://doi.org/10.1093/sf/soaf070), *Online First*. 
 
 2024
 ---
 
-**Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” [*Social Problems*](https://doi.org/10.1093/socpro/spae050)
+**Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” [*Social Problems*](https://doi.org/10.1093/socpro/spae050), *Online First*. 
 
-**Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049)
+**Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049), *Online First*. 
 
-Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” [*Demography*](https://doi.org/10.1215/00703370-11380562)
+Mernitz, S., **Jaime Hsu** and Amanda Pollitt. “Timing to a First Union During Transition to Adulthood.” [*Demography*](https://doi.org/10.1215/00703370-11380562). 
 
 2023 
 ---
