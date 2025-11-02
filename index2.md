@@ -6,7 +6,7 @@ categories: media
 
 我目前正在申請 2025-2026 學年的教職職缺，很樂意在線上與您會面。請參閱我的[學術履歷](https://jaimehsu.github.io/CV_Jaime.pdf)
 ---
-目前就讀於美國德州大學奧斯汀分校[社會學博士生](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495)，主修人口學，並完成健康與老化的博士研究領域證書。我的研究與教學興趣涵蓋性別與性、健康與老化、工作與家庭，以及醫療社會學。整體而言，我運用量化與人口學的方法，利用人口調查資料來探討性別與性取向如何形塑經濟與健康的不平等。
+目前就讀於美國德州大學奧斯汀分校[社會學博士生](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495)，主修人口學，並完成健康與老化的博士研究領域證書。我的研究與教學興趣涵蓋性別與性、健康與老化、工作與家庭，以及醫療社會學。整體而言，我運用量化與人口學的方法，利用人口調查資料來探討性別與性取向如何形塑經濟與健康的不平等。赴美以前，我於政大新聞所碩論以質性訪談探索跨國家庭的性別關係與媒介科技的互構（其中一章發表於 [*Information, Communication & Society*](https://doi.org/10.1080/1369118X.2019.1657161)。
 
 我的研究成果已發表於[*Social Problems*](https://doi.org/10.1093/socpro/spae050), [*Demography*](https://doi.org/10.1215/00703370-11380562), [*Social Forces*](https://doi.org/10.1093/sf/soaf070), [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049) , *Social Science & Medicine*等期刊。我同時隸屬於德州大學奧斯汀分校的[人口研究中心](https://liberalarts.utexas.edu/prc/gradstudents/fh5495)，[人口老化科學中心](https://liberalarts.utexas.edu/caps/people/)，以及[都市民族誌實驗室](https://sites.utexas.edu/ethnolab/people/fellows/)博士生。
 
