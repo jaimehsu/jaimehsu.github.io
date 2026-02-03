@@ -4,12 +4,12 @@ title: "About Me"
 categories: media
 ---
 
-I am on the 2025-2026 academic job market and would be happy to meet at ASA or virtually. See my [CV](https://jaimehsu.github.io/CV_Jaime.pdf)
+See my [CV](https://jaimehsu.github.io/CV_Jaime.pdf)
 ---
 
 Hi, I’m Jaime Hsu, a doctoral candidate in Sociology at the University of Texas at Austin, where I specialize in Demography and hold a doctoral portfolio in Health and Aging. My research and teaching focus on gender and sexuality, health and aging, work and family, and medical sociology. Broadly, I study how economic and health inequalities are shaped by gender and sexuality using quantitative and demographic approaches with large-scale population data. 
 
-You can see my published work in [*Social Problems*](https://doi.org/10.1093/socpro/spae050), [*Demography*](https://doi.org/10.1215/00703370-11380562), [*Social Forces*](https://doi.org/10.1093/sf/soaf070), [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049) , *Social Science & Medicine*, among others. I am affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/) at the University of Texas at Austin. 
+You can see my published work in [*Social Problems*](https://doi.org/10.1093/socpro/spae050), [*Demography*](https://doi.org/10.1215/00703370-11380562), [*Social Forces*](https://doi.org/10.1093/sf/soaf070), [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049) , *Social Science & Medicine*(https://doi.org/10.1016/j.socscimed.2025.118744), among others. I am affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/) at the University of Texas at Austin. 
 
 Across my projects, I treat gender not as a fixed individual trait but as something that takes shape through relationships and everyday life—how people interact with one another, share resources, and express themselves in their families and communities. My dissertation applies this perspective to examine how household finances, family relationships, and health are intertwined across different-sex and same-sex families. Using national U.S. data and dyadic data that include both partners, I show how financial stress can reverberate across relationships, affecting both partners’ marital relationships and mental wellbeing in ways that depend on gender dynamics within the couple. 
 
