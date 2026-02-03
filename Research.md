@@ -6,15 +6,21 @@ title: "Research"
 **Peer-Reviewed Articles**, also on my [Google Scholar](https://scholar.google.com/citations?user=qb4j4e8AAAAJ&hl=zh-TW)
 ---
 
+Forthcoming
+---
+Saydam, Asya and **Jaime Hsu**. Forthcoming. “Sleep Tight, Don't Fight? Daily Sleep Quality and Marital Strain in Same- and Different-Sex Marriages in the United States” *Journal of Health and Social Behavior*
+
+2026
+---
+Deckard, F., Shannon Malone Gonzalez, Yasmiyn Irizarry, and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” [*Social Forces*](https://doi.org/10.1093/sf/soaf070), 104(3): 1004–1028.
 
 2025
 ---
-Deckard, F., Shannon Malone Gonzalez, Yasmiyn Irizarry, and **Jaime Hsu**. “Perpetual Encounter: Reconceptualizing Police Contact and Measuring its Relationship to Black Women’s Mental Health.” [*Social Forces*](https://doi.org/10.1093/sf/soaf070), *Online First*. 
+
+**Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” [*Social Problems*](https://doi.org/10.1093/socpro/spae050), 72(4):1793–1814.
 
 2024
 ---
-
-**Hsu, Jaime**. “Penalizing Nonconformity: Gender Nonconformity at the Intersection of Gender and Sexual Identity in the Labor Market.” [*Social Problems*](https://doi.org/10.1093/socpro/spae050), *Online First*. 
 
 **Hsu, Jaime** and Sara Mernitz. “The Role of Romantic Relationships for Sexual Minority Young Adults’ Depressive Symptoms: Do Relationship Types Matter?” [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049), 122. 
 
