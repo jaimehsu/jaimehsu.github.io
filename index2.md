@@ -16,4 +16,4 @@ categories: media
 
 學術之外，喜愛煮飯與幫助浪貓找家。
 
-[](https://jaimehsu.github.io/photo.jpg)
+[photo](https://jaimehsu.github.io/photo.jpg)
