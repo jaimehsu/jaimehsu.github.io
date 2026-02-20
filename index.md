@@ -4,7 +4,7 @@ title: "About Me"
 categories: media
 ---
 
-See my [CV](https://jaimehsu.github.io/CV_Jaime.pdf)
+
 ---
 
 Hi, I’m Jaime Hsu, a doctoral candidate in Sociology at the University of Texas at Austin, where I specialize in Demography and hold a doctoral portfolio in Health and Aging. My research and teaching focus on gender and sexuality, health and aging, work and family, and medical sociology. Broadly, I study how economic and health inequalities are shaped by gender and sexuality using quantitative and demographic approaches with large-scale population data. 
