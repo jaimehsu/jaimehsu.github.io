@@ -3,8 +3,6 @@ layout: page
 title: "關於我"
 categories: media
 ---
-
-請參閱我的[學術履歷](https://jaimehsu.github.io/CV_Jaime.pdf)
 ---
 許峯源，美國德州大學奧斯汀分校的[社會學博士候選人](https://liberalarts.utexas.edu/sociology/gradstudents/fh5495)，專攻人口學、健康與老化學程。我同時隸屬於德州大學奧斯汀分校的[人口研究中心](https://liberalarts.utexas.edu/prc/gradstudents/fh5495)，[人口老化科學中心](https://liberalarts.utexas.edu/caps/people/)，以及[都市民族誌實驗室](https://sites.utexas.edu/ethnolab/people/fellows/)博士生。我的研究與教學興趣關注性別/性傾向相關的社會不平等、人口健康與老化、工作與家庭。以量化與人口學方法，運用調查資料來探討性別與性取向如何形塑經濟與健康的不平等。
 
