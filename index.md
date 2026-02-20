@@ -5,8 +5,6 @@ categories: media
 ---
 
 
----
-
 Hi, I’m Jaime Hsu, a doctoral candidate in Sociology at the University of Texas at Austin, where I specialize in Demography and hold a doctoral portfolio in Health and Aging. My research and teaching focus on gender and sexuality, health and aging, work and family, and medical sociology. Broadly, I study how economic and health inequalities are shaped by gender and sexuality using quantitative and demographic approaches with large-scale population data. 
 
 You can see my published work in [*Social Problems*](https://doi.org/10.1093/socpro/spae050), [*Demography*](https://doi.org/10.1215/00703370-11380562), [*Social Forces*](https://doi.org/10.1093/sf/soaf070), [*Social Science Research*](https://doi.org/10.1016/j.ssresearch.2024.103049) , [*Social Science & Medicine*](https://doi.org/10.1016/j.socscimed.2025.118744), among others. I am affiliated with the [Population Research Center](https://liberalarts.utexas.edu/prc/gradstudents/fh5495), [Center for Aging and Population Sciences](https://liberalarts.utexas.edu/caps/people/), and the [Urban Ethnography Lab](https://sites.utexas.edu/ethnolab/people/fellows/) at the University of Texas at Austin. 
